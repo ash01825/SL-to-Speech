@@ -1,0 +1,4 @@
+mediapipe
+tensorflow
+pandas
+opencv-python
